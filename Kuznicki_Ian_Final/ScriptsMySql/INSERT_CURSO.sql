@@ -1,0 +1,32 @@
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(1,'A','1RA SECCION A', 'P');
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(1,'B','1RA SECCION B', 'P');
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(1,'C','1RA SECCION C', 'P');
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(2,'A','2DA SECCION A', 'P');
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(2,'B','2DA SECCION B', 'P');
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(2,'C','2DA SECCION C', 'P');
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL)  values(3,'A','3RA SECCION A', 'P');
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(3,'B','3RA SECCION B', 'P');
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(3,'C','3RA SECCION C', 'P');
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(4,'A','4TA SECCION A', 'P');
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(4,'B','4TA SECCION B', 'P');
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(4,'C','4TA SECCION C', 'P');
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(5,'A','5TA SECCION A', 'P');
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(5,'B','5TA SECCION B', 'P');
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(5,'C','5TA SECCION C', 'P');
+
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(1,'A','1RA SECCION A', 'S');
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(1,'B','1RA SECCION  B', 'S');
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(1,'C','1RA SECCION  C', 'S');
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(2,'A','2DA SECCION  A', 'S');
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(2,'B','2DA SECCION  B', 'S');
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(2,'C','2DA SECCION  C', 'S');
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(3,'A','3RA SECCION  A', 'S');
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(3,'B','3RA SECCION  B', 'S');
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(3,'C','3RA SECCION  C', 'S');
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(4,'A','4TA SECCION  A', 'S');
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(4,'B','4TA SECCION  B', 'S');
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(4,'C','4TA SECCION  C', 'S');
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(5,'A','5TA SECCION  A', 'S');
+
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(5,'B','5TA SECCION B', 'S');
+insert into cursos (CURSO, DIVISION, DESCRIPCION, NIVEL) values(5,'C','5TA SECCION C', 'S');
