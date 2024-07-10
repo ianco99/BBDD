@@ -1,5 +1,4 @@
-*.obj
-*.exe
-/.vs
-/obj
-/bin
+*.vcxproj*
+.vs/
+bin
+obj
